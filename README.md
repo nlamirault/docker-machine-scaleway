@@ -9,6 +9,13 @@ Develop :
 * [![Circle CI](https://circleci.com/gh/nlamirault/docker-machine-scaleway/tree/develop.svg?style=svg)](https://circleci.com/gh/nlamirault/docker-machine-scaleway/tree/develop)
 
 
+DEPRECATED.
+See official driver from Scaleway team which includes this project: 
+
+https://github.com/scaleway/docker-machine-driver-scaleway/
+
+
+
 A [Docker Machine][] driver for the [Scaleway][] cloud.
 This driver leverages the new [plugin architecture](https://github.com/docker/machine/issues/1626)
 being developed for Docker Machine.
